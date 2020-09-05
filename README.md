@@ -44,7 +44,7 @@ make;
 - Intel MKL 2018
 - CUSP v0.5.1
 - cuSPARSE v8.0
-- Python 3.5.2
+- Python 3.6.2
 - tensorflow 1.4.0
 - keras 2.1.0
 
