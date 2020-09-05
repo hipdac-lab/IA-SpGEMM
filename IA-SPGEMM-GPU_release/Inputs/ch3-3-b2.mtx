@@ -1,0 +1,41 @@
+%%MatrixMarket matrix coordinate integer general
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/JGD_Homology/ch3-3-b2
+% name: JGD_Homology/ch3-3-b2
+% [Simplicial complexes from Homology from Volkmar Welker.]
+% id: 2009
+% date: 2008
+% author: V. Welker
+% ed: J.-G. Dumas
+% fields: name title A id date author ed kind notes
+% kind: combinatorial problem
+%-------------------------------------------------------------------------------
+% notes:
+% Simplicial complexes from Homology from Volkmar Welker.     
+% From Jean-Guillaume Dumas' Sparse Integer Matrix Collection,
+% http://ljk.imag.fr/membres/Jean-Guillaume.Dumas/simc.html   
+%                                                             
+% http://www.mathematik.uni-marburg.de/~welker/               
+%                                                             
+% Filename in JGD collection: Homology/ch3-3.b2.6x18.sms      
+%-------------------------------------------------------------------------------
+6 18 18
+3 1 -1
+6 2 -1
+5 3 -1
+4 4 -1
+6 5 1
+6 6 -1
+5 7 1
+5 8 -1
+2 9 -1
+4 10 1
+4 11 -1
+3 12 1
+3 13 -1
+1 14 -1
+2 15 1
+2 16 -1
+1 17 1
+1 18 -1

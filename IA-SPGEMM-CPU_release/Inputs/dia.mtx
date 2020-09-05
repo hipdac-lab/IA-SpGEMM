@@ -1,0 +1,21 @@
+%%MatrixMarket matrix coordinate pattern general
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/SNAP/p2p-Gnutella04
+% name: SNAP/p2p-Gnutella04
+% [Gnutella peer to peer network from August 4 2002]
+% id: 2308
+% date: 2002
+% author: M. Ripeanu and I. Foster and A. Iamnitchi
+% ed: J. Leskovec
+% fields: name title A id date author ed kind notes
+% kind: directed graph
+%-------------------------------------------------------------------------------
+4 4 7
+1 1
+1 2
+2 2
+2 3
+3 3
+3 4
+4 4

@@ -1,0 +1,48 @@
+%%MatrixMarket matrix coordinate integer general
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/JGD_Relat/relat3
+% name: JGD_Relat/relat3
+% [Relations from Florent Hiver, Univ. Paris-Est Marne-La-Valle'e]
+% id: 2179
+% date: 2008
+% author: F. Hiver
+% ed: J.-G. Dumas
+% fields: name title A id date author ed kind notes
+% kind: combinatorial problem
+%-------------------------------------------------------------------------------
+% notes:
+% Relations from Florent Hiver, Univ. Paris-Est Marne-La-Valle'e
+% From Jean-Guillaume Dumas' Sparse Integer Matrix Collection,  
+% http://ljk.imag.fr/membres/Jean-Guillaume.Dumas/simc.html     
+%                                                               
+% http://www-igm.univ-mlv.fr/~hivert/                           
+%                                                               
+%                                                               
+% Filename in JGD collection: Relat/relat3.mat                  
+%-------------------------------------------------------------------------------
+12 5 24
+1 2 -1
+2 2 -1
+3 2 1
+4 2 1
+5 2 1
+6 2 1
+7 2 1
+8 2 1
+1 4 2
+2 4 2
+3 4 -2
+4 4 -2
+5 4 -2
+6 4 -2
+7 4 -2
+8 4 -2
+1 5 -1
+2 5 -1
+3 5 1
+4 5 1
+5 5 1
+6 5 1
+7 5 1
+8 5 1
